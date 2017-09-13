@@ -1,0 +1,5 @@
+[
+	{ "command": "open_url" },
+    { "command": "select_url" },
+	{ "command": "open_locale" }
+]

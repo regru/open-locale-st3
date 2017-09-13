@@ -1,0 +1,14 @@
+[
+	{
+		"caption": "Open URL",
+		"command": "open_url"
+	},
+    {
+        "caption": "Open Locale",
+        "command": "open_locale"
+    },
+	{
+		"caption": "Select URL",
+		"command": "select_url"
+	}
+]
