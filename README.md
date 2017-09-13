@@ -8,7 +8,7 @@ Just double-click with Alt on path or right-click to open context menu
 
 ## REGRU
 
-Double click on `t('/path/to/locale')` function to open it's locale file (if exists)
+Double click with Alt on `t('/path/to/locale')` function to open it's locale file (if exists)
 
 ## Settings
 
